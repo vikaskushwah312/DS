@@ -6,7 +6,7 @@ reshape_arr = arr.reshape(2,10)
 '''Convert again 2D to D '''
 one_d= reshape_arr.reshape(20)
 
-# print(one_d)
+# print(one_d) 
 
 arr2= np.random.randint(1,100,50)
 # print(arr2)
